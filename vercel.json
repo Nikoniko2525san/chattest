@@ -1,5 +1,6 @@
 {
+  "name": "chattest",
   "build": {
-    "src": "src/"
+    "command": "npm run build"
   }
 }
