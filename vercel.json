@@ -1,6 +1,4 @@
 {
   "name": "chattest",
-  "build": {
-    "command": "npm run build"
-  }
+  "framework": "nextjs"
 }
