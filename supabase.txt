@@ -1,6 +1,0 @@
-import { createClient } from "@supabase/supabase-js";
-
-const supabaseUrl = "https://xxxxxxxx.supabase.co"; // あなたのSupabase URL
-const supabaseAnonKey = "YOUR_SUPABASE_ANON_KEY"; // 環境変数に設定する
-
-export const supabase = createClient(supabaseUrl, supabaseAnonKey);
